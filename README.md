@@ -1,5 +1,5 @@
 ## Hi there 👋
-!(header.png)
+![Texto Alternativo](header.png)
 <!--
 **isachpn/isachpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
