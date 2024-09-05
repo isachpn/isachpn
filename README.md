@@ -13,5 +13,5 @@ const anmol = {
 };
 ```
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31cneq2tvgzqg4h45plegindih6i)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cneq2tvgzqg4h45plegindih6i&width={width})
 
