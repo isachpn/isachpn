@@ -12,7 +12,9 @@ const anmol = {
         }
 };
 ```
+<br>
 ![Isachpn GitHub stats](https://github-readme-stats.vercel.app/api?username=isachpn&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isachpn&hide_progress=true)
 
 <br>
 <h2>Contatos 💻</h2>
