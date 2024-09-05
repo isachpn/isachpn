@@ -12,4 +12,8 @@ const anmol = {
         }
 };
 ```
+<h2>Contatos</h2>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:chiaparini11@gmail.com)
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cneq2tvgzqg4h45plegindih6i)
