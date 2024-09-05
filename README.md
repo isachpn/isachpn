@@ -5,18 +5,12 @@
 const anmol = {
     pronomes: "Ela" | "Dela",
     cursando: ["Análise de Desenvolvimento de Sistemas no SENAI ITÁLO BOLOGNA"],
-    tecnologias: ["Javascript", "Python", "PHP", "Flutterflow"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
+    tecnologias: ["Javascript", "Python", "PHP", "Flutterflow", "Mindstorm EV3", "Microbit"],
+    banco de dados: ["MySQL", "Supabase"],
+    cursos complementares: {
+            CyberLeader: 60h de proficiência na utilização do Microsoft Office 365,
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
+
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"
