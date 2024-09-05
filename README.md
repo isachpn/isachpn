@@ -18,4 +18,4 @@ const anmol = {
 ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cneq2tvgzqg4h45plegindih6i) <img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[isabelli-chiaparini]" />
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cneq2tvgzqg4h45plegindih6i) <img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[https://www.linkedin.com/in/isabelli-chiaparini/]" />
