@@ -8,12 +8,8 @@ const anmol = {
     tecnologias: ["Javascript", "Python", "PHP", "Flutterflow", "Mindstorm EV3", "Microbit"],
     banco de dados: ["MySQL", "Supabase"],
     cursos complementares: {
-            CyberLeader: 60h de proficiência na utilização do Microsoft Office 365,
-        },
-
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+            CyberLeader: "60h de proficiência na utilização do Microsoft Office 365",
+        }
 };
 ```
 
