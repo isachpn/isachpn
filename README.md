@@ -18,5 +18,5 @@ const anmol = {
 ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isachpn&show_icons=true&bg_color=#2596be)
+![Isachpn GitHub stats](https://github-readme-stats.vercel.app/api?username=isachpn&show_icons=true&theme=transparent)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cneq2tvgzqg4h45plegindih6i)    
