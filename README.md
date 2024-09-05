@@ -1,6 +1,6 @@
 ![Texto Alternativo](header.png)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> <h3> Um pouquinho sobre mim 👇 <h3>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> Um pouquinho sobre mim 👇 
 ```javascript
 const anmol = {
     pronomes: "Ela" | "Dela",
