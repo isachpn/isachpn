@@ -20,10 +20,13 @@ const anmol = {
 
 <h3> Stats 📊 </h3>
 
+<div  align="center" width=150px>
+    
 ![Isachpn GitHub stats](https://github-readme-stats.vercel.app/api?username=isachpn&hide_border=true&show_icons=true&theme=transparent)
 ![Isachpn](https://github-readme-streak-stats.herokuapp.com/?user=isachpn&hide_border=true&theme=transparent&show_icons=true)
- 
 
+</div>
+ 
 
 <br>
 <h2>Contatos 📲 </h2>
